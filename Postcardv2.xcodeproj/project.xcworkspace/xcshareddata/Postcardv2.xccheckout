@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4EA468BB-A766-4B47-BCBC-CC4D615CC903</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Postcardv2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2B4E3EACD2FC406E5C7AE4504910EB5A1E2825FF</key>
+		<string>https://github.com/skaggsa3/Postcard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Postcardv2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2B4E3EACD2FC406E5C7AE4504910EB5A1E2825FF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/skaggsa3/Postcard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B4E3EACD2FC406E5C7AE4504910EB5A1E2825FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B4E3EACD2FC406E5C7AE4504910EB5A1E2825FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Postcardv2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
